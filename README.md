@@ -1,0 +1,1 @@
+# Repositório referente ao aprendizado de GitHub
